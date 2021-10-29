@@ -54,6 +54,7 @@ debug.renderengine.backend=threaded
 debug.sf.hw=1
 debug.sf.latch_unsignaled=0
 vendor.display.disable_scaler=1
+vendor.display.use_smooth_motion=1
 vendor.gralloc.enable_fb_ubwc=1
 
 # Factory reset partition
